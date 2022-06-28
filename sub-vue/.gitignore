@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-<<<<<<< HEAD
 /dist
 
 
@@ -22,9 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-=======
-
-dist
-
-
->>>>>>> 17dfb99bad6cd4b6e462eea99cea89780c569cf3
